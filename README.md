@@ -37,12 +37,6 @@ python -m venv env
 env\Scripts\activate
 ```
 
-Sous MacOS/Linux :
-```bash
-python3 -m venv env
-source env/bin/activate
-```
-
 ### 4. Installer les dépendances
 
 Dans le répertoire du projet, exécutez la commande suivante pour installer toutes les dépendances nécessaires (comme OpenCV-Python, scikit-learn et TensorFlow) :
